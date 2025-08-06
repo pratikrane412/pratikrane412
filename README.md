@@ -19,7 +19,7 @@ I enjoy working on projects that solve real-world problems and help me grow as a
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/pratik-rane-676854194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-rane-676854194/)
 
 # 💻 Tech Stack:
 Languages: 
