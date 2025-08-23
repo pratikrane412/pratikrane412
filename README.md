@@ -8,7 +8,7 @@ I'm a final-year Computer Engineering student with a strong passion for building
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://github.com/pratikrane412)
+Check out my [coding portfolio!](https://pratikrane-portfolio.vercel.app/)
 
 ## 🎓 About Me
 
