@@ -6,7 +6,7 @@ I have hands-on experience in Java, Python, FastAPI, React, and PostgreSQL, alon
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 Building FastAPI applications with PostgreSQL
 
 Check out my [coding portfolio!](https://pratikrane-portfolio.vercel.app/)
 
