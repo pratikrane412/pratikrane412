@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Pratik Rane</h1>
 
 # 💫 About Me:
-I have hands-on experience in Java, Spring Boot, Angular, React, and PostgreSQL, along with practical exposure from completing a Full Stack Development internship, where I worked on both frontend and backend modules to build end-to-end solutions.
+I have hands-on experience in Java, Python, FastAPI, React, and PostgreSQL, along with practical exposure from completing a Full Stack Development internship, where I worked on both frontend and backend modules to build end-to-end solutions.
 
 ## 🚀 What I'm Up To
 
