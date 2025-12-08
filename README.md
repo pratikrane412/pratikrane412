@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Pratik Rane</h1>
 
 # 💫 About Me:
-I have hands-on experience in Java, Python, FastAPI, React, and PostgreSQL, along with practical exposure from completing a Full Stack Development internship, where I worked on both frontend and backend modules to build end-to-end solutions.
+I have hands-on experience in Java, Python, Django, FastAPI, React, and PostgreSQL, along with practical exposure from completing a Full Stack Development internship, where I worked on both frontend and backend modules to build end-to-end solutions.
 
 ## 🚀 What I'm Up To
 
@@ -37,6 +37,7 @@ Developer Tools:
 
 Libraries/Frameworks: 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
